@@ -42,5 +42,6 @@ public class Main {
         System.out.println("Мінімальне значення масиву - " + " " + min);
 
         System.out.println("Hello world");
+        System.out.println("Привіт");
     }
 }
